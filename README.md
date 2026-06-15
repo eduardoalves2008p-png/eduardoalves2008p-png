@@ -25,3 +25,6 @@
   <a href="https://www.linkedin.com/in/eduardo-pina-alves-3174a4365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![Snake animation](https://github.com/eduardoalves2008p-png/eduardoalves2008p-png/blob/output/github-contribution-
+
+
